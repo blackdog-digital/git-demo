@@ -2,3 +2,8 @@ This is my test file.
 There are many like it, but this one is mine.
 My test file is my best friend. It is my life.
 I must master testing as I must master my life.
+
+Without me, my tests are useless.
+Without my tests, I am useless.
+I must write my tests true.
+
