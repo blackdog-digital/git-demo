@@ -1,2 +1,4 @@
 This is my test file.
 There are many like it, but this one is mine.
+My test file is my best friend. It is my life.
+I must master testing as I must master my life.
