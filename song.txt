@@ -8,3 +8,5 @@ Without my tests, I am useless.
 I must write my tests true.
 
 Feature 1
+
+Feature 2
